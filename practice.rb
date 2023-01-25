@@ -27,3 +27,16 @@ blockchain = [
 # Anthony's KelloggCoin balance is 2650
 
 # 👇👇👇 Your code HERE 👇👇👇
+ben = 0
+brian = 0
+evan = 0
+anthony_wallet = 0
+
+for block in blockchain
+  
+
+
+puts "Ben's KelloggCoin balance is #{ben}"
+puts "Brian's KelloggCoin balance is #{brian}"
+puts "Evan's KelloggCoin balance is #{evan}"
+puts "Anthony's KelloggCoin balance is #{anthony}"
